@@ -1,10 +1,6 @@
 - 👋 Hi, I'm Giovanni and I am from Italy, although you can recognize me by my online nickname: Jariel.
 - 👀 I’m interested in tech, IT, science and coding.
-- 🌱 I’m currently expanding my knowledge in few programming languages as CSS 3.0, SASS, JavaScript ES6 and PHP 7.x/8.x.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JarielGFox/JarielGFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently expanding my knowledge in few WEB programming languages as CSS 3.0, SASS, JavaScript ES6 and PHP 7.x/8.x.
+- ✨ I'm also learning how to correctly use Laravel - The PHP Framework For Web Artisans, trying to be an independent web developer.
+- 💞️ I am working on few small projects, which will be uploaded here as soon they're ready.
+- 📫 You can contact me by my personal mail: crudelegio@gmail.com
