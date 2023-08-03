@@ -1,3 +1,5 @@
+# Giovanni Crudele - Junior Web Developer
+
 - 👋 Hi, I'm Giovanni, also known online as Jariel, hailing from Italy.
 - 👀 I have a keen interest in coding, technology, IT and science.
 - 🌱 I'm constantly broadening my knowledge base, which is rooted in web technologies such as CSS 3.0, JavaScript ES6, PHP 8.x, and MySQL.
