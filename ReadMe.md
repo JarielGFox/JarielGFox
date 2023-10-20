@@ -16,4 +16,4 @@
 - :computer: Ho sviluppato una solida base nelle tecnologie web, tra cui principalmente HTML, CSS 3.0, JavaScript ES6, PHP 8.x e MySQL. Ovviamente miro ad ampliare questo bagaglio di conoscenze.
 - :chart: Durante il mio percorso formativo ho imparato ad utilizzare framework per il back end come Laravel e Vue.js per il front end. Attualmente, sto esplorando la libreria React JS e il framework Tailwind CSS, desideroso di perfezionare ulteriormente il mio set di competenze.
 - :trophy: La prova del mio costante impegno risiede nei progetti elencati di seguito nelle mie repository pubbliche. Siete invitati a ad adocchiare ciò che volete!
-- :email: Per informazioni o una semplice chiacchierata, la mia mail è: crudelegio@gmail.com.
+- :email: Per informazioni o una semplice chiacchierata, la mia mail è: crudelegio@gmail.com
