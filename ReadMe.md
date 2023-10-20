@@ -9,8 +9,6 @@
 - :trophy: The proof of my endeavor lies in various small projects, showcased in my public repositories. Feel free to peruse!
 - :email: For collaborations, info or a good tech chat, drop me a line at crudelegio@gmail.com
 
-<br />
-
 # [ITA] - Biografia
 
 - 👋 Ciao! Sono Giovanni, ma potresti conoscermi con il mio alias online: Jariel, al momento risiedo in Italia.
