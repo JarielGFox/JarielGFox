@@ -1,6 +1,6 @@
 # Giovanni Crudele - Junior Web Developer
 
-# [ENG]
+# [ENG] - Bio
 
 - 👋 Greetings! I'm Giovanni, but you might know me by my online alias: Jariel, originally from Italy.
 - :mag: I have a deep-rooted passion for coding, technology, IT, and science, I am on a perpetual journey of exploration and learning.
@@ -11,7 +11,7 @@
 
 <br />
 
-# [ITA]
+# [ITA] - Biografia
 
 - 👋 Ciao! Sono Giovanni, ma potresti conoscermi con il mio alias online: Jariel, al momento risiedo in Italia.
 - :mag: Ho una spiccata passione per la programmazione, la tecnologia, l'informatica e le scienze, mi piace apprendere sempre cose nuove.
