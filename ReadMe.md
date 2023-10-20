@@ -11,7 +11,7 @@
 
 # [ITA] - Biografia
 
-- 👋 Ciao! Sono Giovanni, ma potresti conoscermi con il mio alias online: Jariel, al momento risiedo in Italia.
+- 👋 Ciao! Sono Giovanni, ma potresti riconoscermi dal mio alias online: Jariel, sono risiedente in Italia.
 - :mag: Ho una spiccata passione per la programmazione, la tecnologia, l'informatica e le scienze, mi piace apprendere sempre cose nuove.
 - :computer: Ho sviluppato una solida base nelle tecnologie web, tra cui principalmente HTML, CSS 3.0, JavaScript ES6, PHP 8.x e MySQL. Ovviamente miro ad ampliare questo bagaglio di conoscenze.
 - :chart: Durante il mio percorso formativo ho imparato ad utilizzare framework per il back end come Laravel e Vue.js per il front end. Attualmente, sto esplorando la libreria React JS e il framework Tailwind CSS, desideroso di perfezionare ulteriormente il mio set di competenze.
